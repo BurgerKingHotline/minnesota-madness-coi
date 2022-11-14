@@ -1,0 +1,8 @@
+{
+    "name": "Minnesota Madness",
+    "mapsvg": "map/worldmap.svg",
+    "map": [
+        "map/map.json"
+    ],
+    "default_tag": "GBR"
+}
