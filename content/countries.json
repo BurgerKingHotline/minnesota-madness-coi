@@ -1,0 +1,38 @@
+{
+    "TWC": {
+        "color": "#aba53a",
+        "name": "TWC",
+        "long_name": "TWC_long",
+        "flag": "gfx/flags/TWC.png"
+    },
+    "MIN": {
+        "color": "#424b82",
+        "name": "MIN",
+        "long_name": "MIN_long",
+        "flag": "gfx/flags/MIN.png"
+    },
+    "NMN": {
+        "color": "#477867",
+        "name": "NMN",
+        "long_name": "NMN_long",
+        "flag": "gfx/flags/NMN.png"
+    },
+    "CHR": {
+        "color": "#b8b172",
+        "name": "CHR",
+        "long_name": "CHR_long",
+        "flag": "gfx/flags/CHR.png"
+    },
+    "TCH": {
+        "color": "#785d7a",
+        "name": "TCH",
+        "long_name": "TCH_long",
+        "flag": "gfx/flags/TCH.png"
+    },
+    "NGR": {
+        "color": "#47352a",
+        "name": "NGR",
+        "long_name": "NGR_long",
+        "flag": "gfx/flags/NGR.png"
+    }
+}

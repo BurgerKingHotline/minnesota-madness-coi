@@ -1,8 +1,11 @@
 {
     "name": "Minnesota Madness",
-    "mapsvg": "map/worldmap.svg",
+    "mapsvg": "map/provinces.svg",
     "map": [
         "map/map.json"
     ],
-    "default_tag": "GBR"
+    "countries": [
+        "content/countries.json"
+    ],
+    "default_tag": "TWC"
 }

@@ -1,4 +1,6 @@
 {
 	"tiles": {
+		"hennepin":		{ "owner": "TWC"},
+		"ramsey":		{ "owner": "TWC"}
 	}
 }
